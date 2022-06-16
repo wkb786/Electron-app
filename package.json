@@ -1,0 +1,25 @@
+{
+  "name": "com.wepakgames.electron-app",
+  "version": "1.0.0",
+  "description": "This first tut app for learn purpose.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkb786/Electron-app.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Wepak Games",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkb786/Electron-app/issues"
+  },
+  "homepage": "https://github.com/wkb786/Electron-app#readme",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  }
+}
